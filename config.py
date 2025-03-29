@@ -6,7 +6,7 @@ TELEGRAM_HASH = "1a6616b34f66ed256a8330ad9cb674ed"
 # OPTIONAL CONFIG
 TG_PROXY = {}
 USER_SESSION_STRING = ""
-CMD_SUFFIX = ""
+CMD_SUFFIX = "/"
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
 DATABASE_URL = "mongodb+srv://sainallamilli17:VinsmokeSanji_Bot@cluster0.bvpmzt1.mongodb.net/?retryWrites=true&w=majority&ssl=false"
