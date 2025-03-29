@@ -4,11 +4,11 @@ from importlib import import_module
 class Config:
     AS_DOCUMENT = False
     AUTHORIZED_CHATS = ""
-    BASE_URL = "mongodb+srv://sainallamilli17:VinsmokeSanji_Bot@cluster0.bvpmzt1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    BASE_URL = ""
     BASE_URL_PORT = 80
     BOT_TOKEN = "7922478547:AAG2fOp4cGUd4tc22mIvuFk_03Fkrr3QUPY"
     CMD_SUFFIX = ""
-    DATABASE_URL = ""
+    DATABASE_URL = "mongodb+srv://sainallamilli17:VinsmokeSanji_Bot@cluster0.bvpmzt1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     DEFAULT_UPLOAD = "rc"
     EQUAL_SPLITS = False
     EXCLUDED_EXTENSIONS = ""
