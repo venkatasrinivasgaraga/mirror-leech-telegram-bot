@@ -7,7 +7,7 @@ class Config:
     BASE_URL = ""
     BASE_URL_PORT = 80
     BOT_TOKEN = "7922478547:AAG2fOp4cGUd4tc22mIvuFk_03Fkrr3QUPY"
-    CMD_SUFFIX = ""
+    CMD_SUFFIX = "/"
     DATABASE_URL = "mongodb+srv://sainallamilli17:VinsmokeSanji_Bot@cluster0.bvpmzt1.mongodb.net/?retryWrites=true&w=majority&ssl=false"
     DEFAULT_UPLOAD = "rc"
     EQUAL_SPLITS = False
