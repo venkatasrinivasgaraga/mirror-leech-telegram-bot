@@ -4,9 +4,9 @@ from importlib import import_module
 class Config:
     AS_DOCUMENT = False
     AUTHORIZED_CHATS = ""
-    BASE_URL = ""
+    BASE_URL = "mongodb+srv://sainallamilli17:VinsmokeSanji_Bot@cluster0.bvpmzt1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     BASE_URL_PORT = 80
-    BOT_TOKEN = ""
+    BOT_TOKEN = "7922478547:AAG2fOp4cGUd4tc22mIvuFk_03Fkrr3QUPY"
     CMD_SUFFIX = ""
     DATABASE_URL = ""
     DEFAULT_UPLOAD = "rc"
@@ -26,7 +26,7 @@ class Config:
     MEDIA_GROUP = False
     HYBRID_LEECH = False
     NAME_SUBSTITUTE = ""
-    OWNER_ID = 0
+    OWNER_ID = 959340250
     QUEUE_ALL = 0
     QUEUE_DOWNLOAD = 0
     QUEUE_UPLOAD = 0
@@ -47,8 +47,8 @@ class Config:
     STOP_DUPLICATE = False
     STREAMWISH_API = ""
     SUDO_USERS = ""
-    TELEGRAM_API = 0
-    TELEGRAM_HASH = ""
+    TELEGRAM_API = 27727369
+    TELEGRAM_HASH = "1a6616b34f66ed256a8330ad9cb674ed"
     TG_PROXY = None
     THUMBNAIL_LAYOUT = ""
     TORRENT_TIMEOUT = 0
